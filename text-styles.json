@@ -1,0 +1,280 @@
+{
+  "fileName": "⚙️App Design System",
+  "textStyles": [
+    {
+      "name": "headers/header-h1",
+      "fontFamily": "Outfit",
+      "fontWeight": "Medium",
+      "fontSize": 88,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "headers/header-h2",
+      "fontFamily": "Outfit",
+      "fontWeight": "Medium",
+      "fontSize": 72,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "headers/header-h3",
+      "fontFamily": "Outfit",
+      "fontWeight": "Medium",
+      "fontSize": 64,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "headers/header-h4",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 40,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "headers/header-h5",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 32,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "headers/header-h6",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 30,
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "headers/header-h7",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 24,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "headers/header-h8",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 24,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-large-500",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 20,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-large-400",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 20,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-large-300",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 18,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-large-200",
+      "fontFamily": "Outfit",
+      "fontWeight": "Medium",
+      "fontSize": 18,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-large-100",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 18,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-regular-200",
+      "fontFamily": "Outfit",
+      "fontWeight": "Medium",
+      "fontSize": 16,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-regular-100",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 16,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-small-200",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "body/text-small-100",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "captions/сaptions-500",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 13,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "captions/сaptions-400",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 13,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "captions/сaptions-300",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 12,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "captions/сaptions-200",
+      "fontFamily": "Outfit",
+      "fontWeight": "Regular",
+      "fontSize": 11,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "captions/сaptions-100",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 10,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "buttons/button-large",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 20,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "UPPER"
+    },
+    {
+      "name": "buttons/button-regular",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 16,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "UPPER"
+    },
+    {
+      "name": "buttons/button-small",
+      "fontFamily": "Outfit",
+      "fontWeight": "SemiBold",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "UPPER"
+    }
+  ]
+}

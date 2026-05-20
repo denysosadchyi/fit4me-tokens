@@ -1,0 +1,100 @@
+{
+  "gradient": {
+    "button-primary": {
+      "description": "",
+      "type": "custom-gradient",
+      "value": {
+        "gradientType": "linear",
+        "rotation": 180,
+        "stops": [
+          {
+            "position": 0,
+            "color": "#24e57cff"
+          },
+          {
+            "position": 1,
+            "color": "#13d16aff"
+          }
+        ]
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:c3e56278b0100faccca5e46d9e6629c36052cbc7,",
+          "exportKey": "gradient"
+        }
+      }
+    },
+    "button-danger": {
+      "description": "",
+      "type": "custom-gradient",
+      "value": {
+        "gradientType": "linear",
+        "rotation": 180,
+        "stops": [
+          {
+            "position": 0,
+            "color": "#f99494ff"
+          },
+          {
+            "position": 1,
+            "color": "#ff5858ff"
+          }
+        ]
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:8b4c2725d2545bf262d74d1876446793d1c1c187,",
+          "exportKey": "gradient"
+        }
+      }
+    },
+    "selector-icons-default": {
+      "description": "",
+      "type": "custom-gradient",
+      "value": {
+        "gradientType": "linear",
+        "rotation": 125.43570542994712,
+        "stops": [
+          {
+            "position": 0,
+            "color": "#ffffffff"
+          },
+          {
+            "position": 1,
+            "color": "#f4fff8ff"
+          }
+        ]
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:2ce312ece91f77bc9075033a574e6c5e800d933a,",
+          "exportKey": "gradient"
+        }
+      }
+    },
+    "selector-default": {
+      "description": "",
+      "type": "custom-gradient",
+      "value": {
+        "gradientType": "linear",
+        "rotation": 125.43570542994712,
+        "stops": [
+          {
+            "position": 0,
+            "color": "#ffffffff"
+          },
+          {
+            "position": 1,
+            "color": "#e9f9f0ff"
+          }
+        ]
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:ee7e0d6c7a81ab646d0b833d62e1ebccc20bc71e,",
+          "exportKey": "gradient"
+        }
+      }
+    }
+  }
+}
