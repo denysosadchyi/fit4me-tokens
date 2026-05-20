@@ -39,8 +39,8 @@
 --additional-new-york-bg: #FFC42221;
 --additional-tokyo: #FF9A43;
 --additional-tokyo-bg: #FF9A430F;
---base-brand-100: #75002C;
 --additional-sydney: #9D7CE5;
+--base-brand-100: #75002C;
 --additional-sydney-bg: #9D7CE50F;
 --additional-cape-town: #CC73EF;
 --additional-cape-town-bg: #CD74F00F;
@@ -77,4 +77,7 @@
 --shadows-bg: #00000007;
 --shadows-text: #6F5F65;
 --shadows-modal: #00000019;
+--glass-bg: #78DBA51E;
 --surface-inv-background: #3E3538;
+--color: #FFFFFF;
+--color2: #FFFFFF;
